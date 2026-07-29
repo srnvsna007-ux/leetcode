@@ -16,15 +16,15 @@
     <tr>
       <td align="center" width="120">
         <b style="color: #00b8a3;">🟢 EASY</b><br/>
-        <sub><b>42</b> Solved</sub>
+        <sub><b>1</b> Solved</sub>
       </td>
       <td align="center" width="120">
         <b style="color: #ffc01e;">🟡 MEDIUM</b><br/>
-        <sub><b>28</b> Solved</sub>
+        <sub><b>0</b> Solved</sub>
       </td>
       <td align="center" width="120">
         <b style="color: #ff375f;">🔴 HARD</b><br/>
-        <sub><b>8</b> Solved</sub>
+        <sub><b>0</b> Solved</sub>
       </td>
     </tr>
   </table>
