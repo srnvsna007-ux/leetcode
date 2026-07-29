@@ -1,4 +1,4 @@
-# leetcode
+
 <div align="center">
 
   # 🧩 LeetCode Daily Challenge Log
