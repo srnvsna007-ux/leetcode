@@ -16,7 +16,7 @@
     <tr>
       <td align="center" width="120">
         <b style="color: #00b8a3;">🟢 EASY</b><br/>
-        <sub><b>1</b> Solved</sub>
+        <sub><b>3</b> Solved</sub>
       </td>
       <td align="center" width="120">
         <b style="color: #ffc01e;">🟡 MEDIUM</b><br/>
@@ -48,6 +48,12 @@
         <td><b>121. Best Time to Buy and Sell Stock</b></td>
         <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
         <td><a href="#"><code>Solution.cpp</code></a></td>
+      </tr>
+      <tr>
+        <td><code>2026-07-30</td></code></td>
+        <td><b>169. Majority Element</b></td>
+        <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
+         <td><a href="#"><code>Solution.cpp</code></a></td>
       </tr>
     </tbody>
   </table>
