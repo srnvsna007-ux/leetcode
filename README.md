@@ -59,7 +59,7 @@
         <td><code>2026-08-01</td></code></td>
         <td><b>217.Contains Duplicate</b></td>
         <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
-         <td><a href="#"><code>Solution.cpp</code></a></td>
+         <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/contains%20Duplicate.cpp"><code>Solution.cpp</code></a></td>
       </tr>
     </tbody>
   </table>
