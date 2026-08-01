@@ -53,7 +53,7 @@
         <td><code>2026-07-30</td></code></td>
         <td><b>169. Majority Element</b></td>
         <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
-         <td><a href="#"><code>Solution.cpp</code></a></td>
+         <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/Majority%20element.cpp"><code>Solution.cpp</code></a></td>
       </tr>
        <tr>
         <td><code>2026-08-01</td></code></td>
