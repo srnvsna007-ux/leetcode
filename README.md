@@ -4,7 +4,6 @@
   # 🧩 LeetCode Daily Challenge Log
 
   <p>
-    <img src="https://img.shields.io/badge/Daily_Streak-15_Days-ff9900?style=for-the-badge&logo=leetcode&logoColor=white" alt="Streak" />
     <img src="https://img.shields.io/badge/Language-C++_|_Python-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Languages" />
   </p>
 
