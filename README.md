@@ -15,7 +15,7 @@
     <tr>
       <td align="center" width="120">
         <b style="color: #00b8a3;">🟢 EASY</b><br/>
-        <sub><b>5</b> Solved</sub>
+        <sub><b>6</b> Solved</sub>
       </td>
       <td align="center" width="120">
         <b style="color: #ffc01e;">🟡 MEDIUM</b><br/>
@@ -74,9 +74,16 @@
       <tr>
       <td>5</td>
         <td><code>2026-08-04</td></code></td>
-        <td><b>977.Squares of sorted array </b></td>
+        <td><b>977.Squares of sorted array</b></td>
         <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
          <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/977.square%20of%20sorted%20array%20.cpp"><code>977.Squareofsortedarray.cpp</code></a></td>
+       </tr>
+      <tr>
+      <td>6</td>
+        <td><code>2026-08-05</td></code></td>
+        <td><b>20.Valid parentheses</b></td>
+        <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
+         <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/20.Valid%20parentheses%20.cpp"><code>20.Valid parentheses.cpp</code></a></td>
        </tr>
     </tbody>
   </table>
