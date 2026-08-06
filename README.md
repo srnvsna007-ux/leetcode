@@ -15,7 +15,7 @@
     <tr>
       <td align="center" width="120">
         <b style="color: #00b8a3;">🟢 EASY</b><br/>
-        <sub><b>6</b> Solved</sub>
+        <sub><b>7</b> Solved</sub>
       </td>
       <td align="center" width="120">
         <b style="color: #ffc01e;">🟡 MEDIUM</b><br/>
@@ -84,6 +84,13 @@
         <td><b>20.Valid parentheses</b></td>
         <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
          <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/20.Valid%20parentheses%20.cpp"><code>20.Valid parentheses.cpp</code></a></td>
+       </tr>
+      <tr>
+      <td>7</td>
+        <td><code>2026-08-06</td></code></td>
+        <td><b>232.implement Queue using stack </b></td>
+        <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
+         <td><a href=""><code>232.implement  queue using stacks.cpp</code></a></td>
        </tr>
     </tbody>
   </table>
