@@ -90,7 +90,7 @@
         <td><code>2026-08-06</td></code></td>
         <td><b>232.implement Queue using stack </b></td>
         <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
-         <td><a href=""><code>232.implement  queue using stacks.cpp</code></a></td>
+         <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/232.Implement%20Queue%20using%20stacks.cpp"><code>232.implement  queue using stacks.cpp</code></a></td>
        </tr>
     </tbody>
   </table>
