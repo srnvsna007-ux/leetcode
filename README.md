@@ -105,7 +105,7 @@
         <td><code>2026-08-08</td></code></td>
         <td><b>150.Evaluate Reverse polish notation</b></td>
         <td><span style="color:#ffc01e"><b>medium</b></span></td>
-         <td><a href=""><code style="color:ffc01e;">150.Evaluate Reverse polish notation</code></a></td>
+         <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/150.Evaluate%20Reverse%20polish%20notation.cpp"><code style="color:ffc01e;">150.Evaluate Reverse polish notation</code></a></td>
        </tr>
     </tbody>
   </table>
