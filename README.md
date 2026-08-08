@@ -19,7 +19,7 @@
       </td>
       <td align="center" width="120">
         <b style="color: #ffc01e;">🟡 MEDIUM</b><br/>
-        <sub><b>0</b> Solved</sub>
+        <sub><b>1</b> Solved</sub>
       </td>
       <td align="center" width="120">
         <b style="color: #ff375f;">🔴 HARD</b><br/>
@@ -99,6 +99,13 @@
         <td><b>844.Backspace string compare </b></td>
         <td><span style="color:#00b8a3;"><b>Easy</b></span></td>
          <td><a href="https://github.com/srnvsna007-ux/leetcode/blob/main/844.Backspace%20string%20compare.cpp"><code>844.Backspace string compare.cpp</code></a></td>
+       </tr>
+         <tr>
+      <td>9</td>
+        <td><code>2026-08-08</td></code></td>
+        <td><b>150.Evaluate Reverse polish notation</b></td>
+        <td><span style="color:#ffdf00;"><b>medium</b></span></td>
+         <td><a href=""><code style="color:yellow;">150.Evaluate Reverse polish notation</code></a></td>
        </tr>
     </tbody>
   </table>
