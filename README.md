@@ -104,8 +104,8 @@
       <td>9</td>
         <td><code>2026-08-08</td></code></td>
         <td><b>150.Evaluate Reverse polish notation</b></td>
-        <td><span style="color:#ffdf00;"><b>medium</b></span></td>
-         <td><a href=""><code style="color:yellow;">150.Evaluate Reverse polish notation</code></a></td>
+        <td><span style="color:#ffc01e"><b>medium</b></span></td>
+         <td><a href=""><code style="color:ffc01e;">150.Evaluate Reverse polish notation</code></a></td>
        </tr>
     </tbody>
   </table>
